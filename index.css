@@ -1,0 +1,156 @@
+@import url("https://fonts.google.com/specimen/Redressed?query=redress/specimen/Merriweather?query=mer");
+.Redressed  
+{
+    font-family: redressed, cursive;
+}
+
+.merriweather{
+    font-family: Merriweather, serif;
+}
+.cc-navbar
+{
+    background-color:darkgray;
+    background-position:top;
+    font-family:serif;
+    box-shadow:2px 2px 4px;
+    z-index:99;
+    font-size: 20px;
+}
+
+.cc-navbar .nav-link
+{ 
+    color: blue;
+    background-color:darkgray;
+    border-bottom: 1px solid transparent;
+    transition: padding 0.4s ease-in-out ease;
+
+}
+
+
+.cc-navbar .nav-link: hover, active
+{ 
+    padding-bottom: 30px;
+    border-bottom-color: darkgreen;
+    
+}
+.bannar
+{
+    background-image:url(asset/img/exclusive-banquet-g25248638f_1920.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+.head{
+font-family: serif;
+ font-size: 40px;
+font-weight: 400px;
+color:#fff;
+}
+
+.btn-order
+{
+color: darkgreen;
+border-color: darkgreen;
+transition: 0.5s;
+}
+
+.btn-order:hover,
+.btn-order:active
+{
+    color: #fff;
+    background-color: darkgreen;
+    
+}
+
+
+.card-body {
+    font-family: cursive;
+    font-size: 40px;
+}
+.carouselExampleIndicator{
+    width:50%;
+    margin: auto;
+    transition: slide;
+    overflow-x: scroll;
+}
+.carousel-item {
+    width: 100%;
+    height: auto;
+    bottom: auto;
+    margin-bottom: auto;
+}
+.img-carousel {
+    width: 100%;
+    height: auto;
+    margin: auto;
+  
+}
+.cc-menu,
+.order-form
+{
+background: url(asset/img/116818.webp);background-repeat: no-repeat;
+    height: auto;
+    background-size: cover;
+    
+}
+.headi {
+    font-size: 40px;
+    font-family: cursive;
+    justify-content: center;
+    text-align: center;
+    color: orange;
+}
+.nav lien 
+{
+   background-color: orange;
+    color:#fff;
+    padding-bottom: #fff;
+     
+}
+
+.nav text-light {
+    font-size: 40px;
+   
+}
+}
+.cc-carousel {
+    background-image: url(asset/img/img2/Screenshot_20230812-150732.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50px;
+    width: 50px;
+}
+
+
+.card-header {
+    justify-content: center;
+    text-align-last: center;
+    transition: padding 0.4s ease-in-out;
+    
+}
+.card-text {
+    font-family:sans-serif;
+    font-size: 20px;
+    color: black;
+    
+}
+
+
+.footer {
+    background-color:darkgray;
+    text-decoration-color: #fff;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
